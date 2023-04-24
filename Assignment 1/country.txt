@@ -1,0 +1,14 @@
+China                      1339190000    9596960
+United-States-of-America   309975000     9629091
+Brazil                     193364000     8511965
+Japan                      127380000     377835
+Canada                     34207000      9976140
+Indonesia                  260581100     1809590
+Nigeria                    186987563     912134
+Mexico                     128632004     1969230
+Egypt                      93383574      1000000
+France                     64668129      541656
+Italy                      59801004      300000
+South-Africa               54978907      1222222
+South-Korea                50503933      98076
+Colombia                   48654392      1090909
